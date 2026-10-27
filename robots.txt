@@ -10,6 +10,4 @@ Disallow: /tilda/event*
 Disallow: /*_escaped_fragment_*
 Disallow:
 
-
-Sitemap: http://webcam-studios.pro/sitemap.xml
-Host: webcam-studios.pro
+Sitemap: https://webcam-studios-pro.vercel.app/sitemap.xml
